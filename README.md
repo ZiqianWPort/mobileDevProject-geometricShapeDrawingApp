@@ -20,7 +20,7 @@ This code has been made public only for my personal portfolio purposes. If you a
 
 <h3>Project Description</h3>
 <p>
-This project is a drawing app that allows users to draw geometric shapes of different colors and modify them in various ways to make some art happen. The app has five major functionalities, and I'll explain them one by one here:<br></p>
+This project is a drawing app that allows users to draw geometric shapes of different colors and modify them in various ways to make some art happen. The app has five major functionalities, and I'll explain them one by one here:</p>
 <p>
 1. Draw:<br>
 There are 3 tab bars at the bottom of the app's user interface. From top to bottom, the first tab bar offers 5 color options, the second one offers 3 shape options, and the third one offers 5 action options. To use the "draw" functionality, please click on the "draw" button on the third tab bar, and choose a color and shape you wish to draw using the first and second tab bars. Then when you click on the drawing area, a geometric shape will be drawn on the canvas.<br>
